@@ -17,9 +17,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colle123&theme=synthwave&layout=compact"/> 
 -->
 
-<a href="https://github.com/hugoMGSung/StudyWPF.git" target="_blank">
-<img alt="C" src="https://img.shields.io/badge/c%20-%23239120.svg?style=flat&logo=c&logoColor=white"/></a>
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+<a href="https://github.com/colle123/StudyWPF.git" target="_blank">
+<img alt="StudyWPF" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
 
 
 ## Project List
